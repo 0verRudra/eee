@@ -2,6 +2,9 @@
   "name": "project_chat_application",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "16.x"
+  },
   "dependencies": {
     "query-string": "^6.8.2",
     "react": "^16.9.0",
@@ -41,11 +44,6 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.14.3",
     "eslint-plugin-react-hooks": "^1.7.0"
-  }
-},
-{
-  "engines": {
-    "node": "16.x"
   }
 }
 
