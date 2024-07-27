@@ -42,4 +42,11 @@
     "eslint-plugin-react": "^7.14.3",
     "eslint-plugin-react-hooks": "^1.7.0"
   }
+},
+{
+  "engines": {
+    "node": "16.x"
+  }
 }
+
+
